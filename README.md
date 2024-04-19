@@ -13,7 +13,7 @@ pip install pypresence
 ```
 ## Configuring the Program:
 
-Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtained from the Discord Developer Portal. Also, customize the program_name variable with the name of the program you're developing.
+Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtained from the Discord Developer Portal. Also, customize the `'program_name'` variable with the name of the program you're developing.
 
 ## How the program works:
 
