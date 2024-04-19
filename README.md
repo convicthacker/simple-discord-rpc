@@ -6,7 +6,7 @@
     Note down the "Client ID" of your application, as you'll need it when running the program.
 
 # Install Discord RPC Library:
-
+``
     You'll need a library that allows your program to communicate with Discord's RPC API. You can install it via pip:
 ```
     pip install pypresence
