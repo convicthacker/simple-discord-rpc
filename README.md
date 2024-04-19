@@ -1,6 +1,6 @@
 # Simple Discord Rich Presence Client
 
-## Set Up a Discord Application:
+## Set Up the Discord back-end Application:
 
 Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
 Note down the "Client ID" of your application, as you'll need it when running the program.
