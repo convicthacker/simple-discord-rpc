@@ -8,7 +8,7 @@ Note down the "Client ID" of your application, as you'll need it when running th
 ## Installation
 
 You'll need to install discord-rpc to communicate with Discord's RPC API. You can install it via pip:
-```
+```bash
 pip install pypresence
 ```
 Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtained from the Discord Developer Portal. </br>
