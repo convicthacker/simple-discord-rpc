@@ -3,14 +3,14 @@
 # Set Up a Discord Application:
 
     Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
-    Note down the "Client ID" of your application, as you'll need it later.
+    Note down the "Client ID" of your application, as you'll need it when running the program.
 
 # Install Discord RPC Library:
 
-    You'll need a library that allows your program to communicate with Discord's RPC API. One commonly used library is discord-rpc. You can install it via pip:
-
+    You'll need a library that allows your program to communicate with Discord's RPC API. You can install it via pip:
+```
     pip install pypresence
-
+```
 # Write Your Program:
 
     Import the pypresence module.
