@@ -2,7 +2,7 @@
 
 ## Set Up the Discord back-end Application:
 
-Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application.
+Go to the Discord Developer Portal (https://discord.com/developers/applications) and create a new application. </br>
 Note down the "Client ID" of your application, as you'll need it when running the program.
 
 ## Install Discord RPC Library:
@@ -13,7 +13,8 @@ pip install pypresence
 ```
 ## Configuring the Program:
 
-Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtained from the Discord Developer Portal. Also, customize the `'program_name'` variable with the name of the program you're developing.
+Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtained from the Discord Developer Portal. </br>
+Also, customize the `'program_name'` variable with the name of the program you're developing.
 
 ## How the program works:
 
