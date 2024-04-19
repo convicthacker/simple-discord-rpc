@@ -17,7 +17,7 @@ Replace `'YOUR_CLIENT_ID'` with the client ID of your Discord application obtain
 
 ## How the program works:
 
-~ Import the pypresence module.
+~ Import the pypresence module. </br>
 ~ Initialize the RPC client with your Discord application's client ID.
 ~ Update the Rich Presence with details of the program you're developing, such as the program's name, status, and any additional details you want to display.
 ~ Periodically update the Rich Presence as needed.
